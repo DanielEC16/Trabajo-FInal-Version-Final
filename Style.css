@@ -4,7 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
-
+/* Style for all */
 
 :root{
     --black:#192a56;
@@ -161,6 +161,10 @@ li{
     font-family: 'Mukta', sans-serif;
 }
 
+
+
+
+/* Media query for responsive */
 
 @media (max-width:991px){
 
