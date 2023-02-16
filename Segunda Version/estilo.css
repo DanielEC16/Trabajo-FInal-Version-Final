@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+:root{
+    --color-barra:#fff
+}
+
+
+*{
+    font-family: 'Nunito', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+
+
+main > .container{
+    padding: 30px 0;
+}
+
+.barra-nav{
+    background-color: var(--color-principal);
+}
+
+button {
+    width: 4em;
+}
